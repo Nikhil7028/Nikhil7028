@@ -1,4 +1,3 @@
-![logo](https://github.com/Nikhil7028/Nikhil7028/blob/main/Slide12.JPG)
 
 
 <h1 align="center">Hi 👋, I'm Nikhil Choudhari</h1>
