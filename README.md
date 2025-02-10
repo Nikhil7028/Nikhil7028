@@ -13,6 +13,8 @@
 <a href="https://www.linkedin.com/in/nikhilchoudhari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil choudhari" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@BinaryComputer01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="binarycomputer" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/Nikhil_980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikhil980" height="30" width="40" /></a>
+  
+<a href="https://www.leetcode.com/Nikhil_980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikhil980" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
